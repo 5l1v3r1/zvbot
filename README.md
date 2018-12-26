@@ -1,7 +1,7 @@
-<p><h1>nb: This is not a bot chat that you can talk to! if you ever tried using qeubot on whatsapp, this is similar</h1></p>
+<p><h3>nb: This is not a bot chat that you can talk to! if you ever tried using qeubot on whatsapp, this is similar</h3></p>
 
 # how to install this tool?
-<p>just type `pip2 install zvbot` in your terminal</p>
+```just type `pip2 install zvbot` in your terminal```
 
 # how to use?
 ```zvbot --account USER:PASS --run; or
