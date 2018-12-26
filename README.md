@@ -20,7 +20,7 @@ PC ( linux )
         ex: @kbbi aku
               |    +-- value
               +-- command
-             - fixed bug and typo
+      - fixed bug and typo
 ```
 # Homepage
 ```
