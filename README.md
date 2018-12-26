@@ -4,13 +4,15 @@
 ```just type `pip2 install zvbot` in your terminal```
 
 # how to use?
-```zvbot --account USER:PASS --run; or
+```
+zvbot --account USER:PASS --run; or
 zvbot --cookie PATH --run;
 zvbot --cookie PATH --save-cookie --run; or
 whatever
 ```
 # Testing
-```Android ( termux )
+```
+Android ( termux )
 PC ( linux )
 ```
 
