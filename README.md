@@ -6,9 +6,9 @@
 # how to use?
 ```
 zvbot --account USER:PASS --run; or
-zvbot --cookie PATH --run;
+zvbot --cookie PATH --run; or
 zvbot --cookie PATH --save-cookie --run; or
-whatever
+whatever :/
 ```
 # Testing
 ```
