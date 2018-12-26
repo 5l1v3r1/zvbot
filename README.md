@@ -18,8 +18,8 @@ PC ( linux )
 
 # changelog
 ```
-5.1.2 - added new command "@kbbi"
-        ex: @kbbi aku
+0.0.1 - added new command "@kbbi"
+        ex: @kbbi robot
               |    +-- value
               +-- command
       - fixed bug and typo
