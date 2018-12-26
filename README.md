@@ -10,22 +10,27 @@ zvbot --cookie PATH --save-cookie --run; or
 whatever
 ```
 # Testing
-<p>Android ( termux )<br>
-PC ( linux )<br></p>
+```Android ( termux )
+PC ( linux )
+```
 
-#changelog
-
-<p>5.1.2 - added new command "@kbbi"
-ex: @kbbi aku
-                             |        +-- value
-                             +-- command
+# changelog
+```
+5.1.2 - added new command "@kbbi"
+        ex: @kbbi aku
+              |    +-- value
+              +-- command
              - fixed bug and typo
-
-#Homepage
+```
+# Homepage
+```
    github: https://github.com/zevtyardt/zvbot
-                  ( btw, the source code isn't on github )
+           ( btw, the source code isn't on github )
+```
 
-#author
+# author
+```
   zevtyardt <xnver404@gmail.com>
   Fb: https://m.facebook.com/zvtyrdt
-         https://m.facebook.com/putriy.kaeysha
+      https://m.facebook.com/putriy.kaeysha
+```
