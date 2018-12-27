@@ -24,7 +24,7 @@ PC ( linux )
               |    +-- value
               +-- command
       - fixed bug and typo
-0.0.3 - added user limit
+0.0.4 - added user limit
 ```
 # Homepage
 ```
