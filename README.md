@@ -18,11 +18,13 @@ PC ( linux )
 
 # changelog
 ```
-0.0.1 - added new command "@kbbi"
+0.0.1 - released
+0.0.2 - added new command "@kbbi"
         ex: @kbbi robot
               |    +-- value
               +-- command
       - fixed bug and typo
+0.0.3 - added user limit
 ```
 # Homepage
 ```
