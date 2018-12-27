@@ -19,12 +19,16 @@ PC ( linux )
 # changelog
 ```
 0.0.1 - released
-0.0.2 - added new command "@kbbi"
+0.0.2 + added new command "@kbbi"
         ex: @kbbi robot
               |    +-- value
               +-- command
       - fixed bug and typo
-0.0.4 - added user limit
+0.0.4 + added user limit
+0.0.5 + added new command "@lyrics"
+        ex: @lyrics hello adelle
+               |         +-- value
+               +-- command
 ```
 # Homepage
 ```
