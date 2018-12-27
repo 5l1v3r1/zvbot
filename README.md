@@ -25,7 +25,7 @@ PC ( linux )
               +-- command
       - fixed bug and typo
 0.0.4 + added user limit
-0.0.6 + added new command "@lyrics"
+0.0.7 + added new command "@lyrics"
         ex: @lyrics hello adelle
                |         +-- value
                +-- command
