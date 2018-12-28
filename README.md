@@ -29,6 +29,7 @@ PC ( linux )
         ex: @lyrics hello adelle
                |         +-- value
                +-- command
+0.0.9 - fixed bug
 ```
 # Homepage
 ```
